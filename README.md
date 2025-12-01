@@ -1,2 +1,1 @@
-# cybersecurity-labs
-Hands-on labs from TryHackMe, Google Cyber cert, Security+
+# Cybersecurity Labs – TryHackMe / Google Cyber / Security+ write-ups
